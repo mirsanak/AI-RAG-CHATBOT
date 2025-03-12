@@ -1,0 +1,13 @@
+streamlit : For building the web interface.
+google-generativeai : Official Google Generative AI library.
+langchain : For text splitting, embeddings, and conversational chains.
+PyPDF2 : For extracting text from PDF files.
+chromadb:a vector database for storing embeddings
+faiss-cpu : For vector storage and similarity search.
+langchain_google_genai : For integrating Google genarative ai models (gemini)
+os :for environment variables or file handling
+pandas :for reading Excel and CSV files.
+beautifulsoup4: For parsing HTML files.
+python-docx: For extracting text from Word documents.
+python-pptx: For extracting text from PowerPoint files.
+
