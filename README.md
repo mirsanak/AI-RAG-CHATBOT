@@ -56,26 +56,6 @@ python-pptx: For extracting text from PowerPoint files.
 
 
 
-🖥 Installation & Setup
-
-🔹 Prerequisites
-
-Ensure you have Python 3.8+ installed.
-
-🔹 Clone the Repository
-
-git clone https://github.com/yourusername/document-genie.git
-cd document-genie
-
-🔹 Install Dependencies
-
-pip install -r requirements.txt
-
-🔹 Run the Application
-
-streamlit run app.py
-
-
 
 🏆 Future Enhancements
 
